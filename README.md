@@ -4,8 +4,8 @@
 >**The application is under construction.**
 
 ## Task list
-- [ ] Strong password generator.
-- [ ] Saving previously used email addresses to facilitate account creation on a new site.
+- [X] Strong password generator.
+- [X] Saving previously used email addresses to facilitate account creation on a new site.
 - [ ] Encryption of passwords and email addresses.
 - [ ] The software's database connection.
 - [ ] Importing password and email information from a .csv file.
