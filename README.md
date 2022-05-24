@@ -6,8 +6,8 @@
 ## Task list
 - [X] Strong password generator.
 - [X] Saving previously used email addresses to facilitate account creation on a new site.
-- [ ] Encryption of passwords and email addresses.
-- [ ] The software's database connection.
+- [X] Encryption of passwords and email addresses.
+- [X] The software's database connection.
 - [ ] Importing password and email information from a .csv file.
 - [ ] Exporting existing emails and passwords in the program.
 - [ ] Creating Chrome Extension for the connection of the software with the browser.
